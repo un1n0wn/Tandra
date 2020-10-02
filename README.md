@@ -5,7 +5,7 @@ INSTRUCTIONS:
 
 git clone https://github.com/un1n0wn/Tundra
 
-python3 tundra
+python3 tandra
 
 DONE!
 
